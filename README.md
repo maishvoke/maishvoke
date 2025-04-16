@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maishvoke
+- 👋 Hi, I’m @contaaa
 - 👀 I’m interested in ... ongoing python projects
 - 🌱 I’m currently learning ... Django and Laravel
 - 💞️ I’m looking to collaborate on ... Ongoing Python Projects
